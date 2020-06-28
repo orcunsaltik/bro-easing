@@ -1,7 +1,7 @@
 {
   "name": "bro-easing",
   "description": "Easing functions for Bro Js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "easing",
     "client",
