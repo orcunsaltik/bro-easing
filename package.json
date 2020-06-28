@@ -21,11 +21,9 @@
   "author": "Orçun Saltık <saltikorcun@gmail.com>",
   "devDependencies": {
     "del": "^5.1.0",
-    "eslint": "^7.3.1",
     "gulp-babel": "^8.0.0",
     "gulp": "^4.0.2",
     "gulp-if": "^3.0.0",
-    "gulp-rename": "^2.0.0",
     "gulp-rollup-2": "^1.0.8",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-terser": "^1.2.0"
